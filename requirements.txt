@@ -1,0 +1,11 @@
+uvicorn
+fastapi
+passlib[bcrypt]
+pyjwt
+python-slugify
+Unidecode
+python-dotenv
+databases
+motor
+requests
+email_validator
