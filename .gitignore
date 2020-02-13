@@ -1,3 +1,9 @@
+# Docker
+docker-compose.yml
+
+# Database
+mongo-volume/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
