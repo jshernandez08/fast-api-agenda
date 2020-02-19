@@ -4,7 +4,7 @@ WORKDIR /code
 
 RUN apk add g++ make openssl-dev libffi-dev
 
-COPY . /code
+COPY ./requirements.txt /code
 
 RUN pip install -r requirements.txt
 
